@@ -1,6 +1,4 @@
-#include "gpu-compute-engine.hpp"
-#include "cuda-compute-kernel.cu"
-/*
+/* TDOD
 void GPUComputeEngine::compute()
 {
     // Allocate device memory
